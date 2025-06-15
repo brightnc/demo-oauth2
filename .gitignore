@@ -217,6 +217,7 @@ build/
 dist/
 .next/
 out/
+/config.js
 
 # IDE
 .idea/
